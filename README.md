@@ -8,7 +8,7 @@
 ## Introduction
 
 In React, **props** are used to pass information _down_ the component tree, from
-parents to children. In order to propagate information in the opposite
+parents to children. In order to send information in the opposite
 direction, we can use callback functions that are passed from parent components
 to children.
 
